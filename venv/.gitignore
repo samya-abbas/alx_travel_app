@@ -1,0 +1,8 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+DEBUG=True
+SECRET_KEY=change_me
+DB_NAME=db_name
+DB_USER=db_user
+DB_PASSWORD=db_pass
+DB_HOST=127.0.0.1
+DB_PORT=3306

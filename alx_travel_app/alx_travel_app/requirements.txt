@@ -1,0 +1,8 @@
+Django>=4.2
+djangorestframework
+django-cors-headers
+drf-yasg
+django-environ
+celery
+pika  # or rabbitmq lib you prefer for integration
+mysqlclient  # MySQL Python driver
